@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Mandla Lee — Build with intent</title>
+<desc id="desc">Editorial black and green banner with Mandla Lee in large type and a message about practical software, creative work and South African roots.</desc>
+<rect width="1200" height="350" fill="#101712"/>
+<path d="M0 0H1200V10H0Z" fill="#B9F66B"/>
+<g fill="none" stroke="#395441" stroke-width="1" opacity=".38">
+<path d="M35 46H1165M35 308H1165"/>
+<path d="M570 48V305"/>
+<path d="M858 48V305" stroke-dasharray="4 9"/>
+</g>
+<text x="54" y="76" fill="#B9F66B" font-family="monospace" font-size="16" letter-spacing="3">M / L</text>
+<text x="570" y="76" fill="#91A693" font-family="monospace" font-size="14" letter-spacing="2">INDEPENDENT DIGITAL WORKSHOP</text>
+<text x="52" y="205" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-6">MANDLA</text>
+<text x="52" y="298" fill="#B9F66B" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-6">LEE<tspan fill="#F2F5EC">.</tspan></text>
+<text x="606" y="151" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" letter-spacing="-1">BUILD THINGS</text>
+<text x="606" y="193" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" letter-spacing="-1">THAT LAST.</text>
+<text x="607" y="237" fill="#A0B1A0" font-family="monospace" font-size="17">WEB / SOFTWARE / DESIGN</text>
+<text x="607" y="263" fill="#A0B1A0" font-family="monospace" font-size="17">MUSIC / IDEAS / SOUTH AFRICA</text>
+<rect x="1087" y="58" width="56" height="235" rx="1" fill="#B9F66B"/>
+<path d="M1098 273L1131 249M1098 243L1131 219M1098 213L1131 189M1098 183L1131 159M1098 153L1131 129M1098 123L1131 99" stroke="#101712" stroke-width="4" opacity=".55"/>
+<rect x="54" y="323" width="60" height="4" fill="#B9F66B"/>
+<text x="126" y="331" fill="#728773" font-family="monospace" font-size="13" letter-spacing="2">ROOTED IN SOUTH AFRICA. BUILT FOR EVERYWHERE.</text>
+</svg>
