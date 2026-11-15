@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="86" viewBox="0 0 920 86" role="img" aria-labelledby="title">
+<title id="title">Now playing: code, music, culture and ideas</title>
+<style>
+.bar{fill:#baff66;transform-origin:center 65px;animation:beat 1.3s ease-in-out infinite alternate}
+.b2{animation-delay:-.25s}.b3{animation-delay:-.6s}.b4{animation-delay:-.95s}.b5{animation-delay:-.45s}
+@keyframes beat{from{transform:scaleY(.28)}to{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){.bar{animation:none}}
+</style>
+<rect x="1" y="1" width="918" height="84" rx="13" fill="#121917" stroke="#354a40" stroke-width="2"/>
+<circle cx="48" cy="43" r="24" fill="#f5ae91"/>
+<path d="M42 30L59 43 42 56Z" fill="#111715"/>
+<text x="91" y="32" fill="#a3b7a9" font-family="monospace" font-size="13" letter-spacing="1.3">NOW PLAYING / MANDLA LEE</text>
+<text x="91" y="58" fill="#f5f4e8" font-family="Arial,sans-serif" font-weight="700" font-size="23">CODE × CULTURE × MUSIC × WHAT'S NEXT</text>
+<g transform="translate(720 0)">
+<rect class="bar" x="0" y="21" width="9" height="44" rx="4"/>
+<rect class="bar b2" x="18" y="10" width="9" height="55" rx="4"/>
+<rect class="bar b3" x="36" y="31" width="9" height="34" rx="4"/>
+<rect class="bar b4" x="54" y="13" width="9" height="52" rx="4"/>
+<rect class="bar b5" x="72" y="25" width="9" height="40" rx="4"/>
+<rect class="bar b2" x="90" y="8" width="9" height="57" rx="4"/>
+<rect class="bar b3" x="108" y="24" width="9" height="41" rx="4"/>
+<rect class="bar b4" x="126" y="14" width="9" height="51" rx="4"/>
+</g></svg>
