@@ -36,6 +36,21 @@ I'm **Mandla Lee Ndlovu**, a South African creative with roots in Limpopo. My pu
 
 ---
 
+## 🏆 THE PERSONAL WINS — NO FAKE TROPHIES
+
+Not an awards shelf. Just things I'm glad I didn't give up on:
+
+- **[Phala Digital](https://github.com/MandlaLee/LeeR500)** — turning the idea of helping local businesses get online into actual websites, visuals and a proper body of work.
+- **[Kingship's digital work](https://github.com/MandlaLee/thethrivegeneration)** — building for a community and people I care about, not just for an imaginary app user.
+- **[Mandla Brain](https://github.com/MandlaLee/mandla-brain)** — taking the messy problem of lost AI context seriously enough to build a whole continuity system around it.
+- **[WebPfyer](https://github.com/MandlaLee/WebPfyer)** — a small, useful tool with a real purpose, instead of a hundred pointless settings.
+- **[The Intel Cutawan contribution](https://github.com/MandlaLee/cutawan)** — getting a proper open-source desktop application to build and launch on an older Intel Mac instead of throwing it out and starting a worse one.
+- **Music under Mandla Lee** — because making something people *feel* matters just as much to me as making something that runs.
+
+**None of these has to be perfect to mean something to me.**
+
+---
+
 ## 🎨 SIDE A — PICTURES OR IT DIDN'T HAPPEN
 
 **The work, not just the words.** These are actual preview images saved in my [Phala Digital portfolio repository](https://github.com/MandlaLee/LeeR500). They include early versions and concept work; a screenshot isn't a claim that every business site is live today.
