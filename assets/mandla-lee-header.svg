@@ -1,23 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
-<title id="title">Mandla Lee — more than one title</title>
-<desc id="desc">Editorial charcoal and green banner with Mandla Lee in large type, celebrating code, music, creativity, business and South African identity.</desc>
-<rect width="1200" height="350" fill="#101712"/>
-<path d="M0 0H1200V10H0Z" fill="#B9F66B"/>
-<g fill="none" stroke="#395441" stroke-width="1" opacity=".38">
-<path d="M35 46H1165M35 308H1165"/>
-<path d="M570 48V305"/>
-<path d="M858 48V305" stroke-dasharray="4 9"/>
-</g>
-<text x="54" y="76" fill="#B9F66B" font-family="monospace" font-size="16" letter-spacing="3">M / L</text>
-<text x="570" y="76" fill="#91A693" font-family="monospace" font-size="14" letter-spacing="2">INDEPENDENT DIGITAL WORKSHOP</text>
-<text x="52" y="205" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-6">MANDLA</text>
-<text x="52" y="298" fill="#B9F66B" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="114" letter-spacing="-6">LEE<tspan fill="#F2F5EC">.</tspan></text>
-<text x="606" y="151" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" letter-spacing="-1">MORE THAN</text>
-<text x="606" y="193" fill="#F2F5EC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" letter-spacing="-1">ONE TITLE.</text>
-<text x="607" y="237" fill="#A0B1A0" font-family="monospace" font-size="17">CODE / DESIGN / BUSINESS</text>
-<text x="607" y="263" fill="#A0B1A0" font-family="monospace" font-size="17">MUSIC / STORIES / SOUTH AFRICA</text>
-<rect x="1087" y="58" width="56" height="235" rx="1" fill="#B9F66B"/>
-<path d="M1098 273L1131 249M1098 243L1131 219M1098 213L1131 189M1098 183L1131 159M1098 153L1131 129M1098 123L1131 99" stroke="#101712" stroke-width="4" opacity=".55"/>
-<rect x="54" y="323" width="60" height="4" fill="#B9F66B"/>
-<text x="126" y="331" fill="#728773" font-family="monospace" font-size="13" letter-spacing="2">MANY INTERESTS. ONE CREATIVE MIND.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Mandla Lee — no single lane</title>
+<desc id="desc">Playful charcoal, acid green, peach and lavender mixtape-style poster. A vinyl record spins beside bold Mandla Lee lettering and creative stickers.</desc>
+<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#284139" stroke-width=".7" opacity=".6"/></pattern></defs>
+<style>
+.vinyl{transform-origin:1008px 199px;animation:spin 17s linear infinite}
+.jiggle{transform-origin:725px 105px;animation:jiggle 2.4s ease-in-out infinite alternate}
+.star{transform-origin:765px 320px;animation:twirl 9s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes jiggle{from{transform:rotate(-3deg)}to{transform:rotate(3deg)}}
+@keyframes twirl{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.vinyl,.jiggle,.star{animation:none}}
+</style>
+<rect width="1200" height="410" rx="6" fill="#111715"/><rect width="1200" height="410" fill="url(#grid)"/>
+<path d="M15 22H1186M15 386H1186" stroke="#b4ef64" stroke-width="2" opacity=".7"/>
+<rect x="22" y="37" width="159" height="32" fill="#e8f2cd" transform="rotate(-4 22 37)"/>
+<text x="39" y="57" fill="#17221b" font-family="Arial,sans-serif" font-weight="900" font-size="14">OPEN 24/7 IN MY HEAD</text>
+<text x="31" y="147" fill="#f6f2e9" font-family="Arial,sans-serif" font-weight="900" font-size="106" letter-spacing="-7">MANDLA</text>
+<text x="30" y="248" fill="#baff66" font-family="Arial,sans-serif" font-weight="900" font-size="116" letter-spacing="-9">LEE<tspan fill="#f6f2e9">.</tspan></text>
+<text x="33" y="296" fill="#f6f2e9" font-family="Arial,sans-serif" font-weight="700" font-size="26">NO SINGLE LANE. NO BORING IDEAS.</text>
+<rect x="28" y="316" width="545" height="38" rx="2" fill="#f3a68e"/>
+<text x="42" y="342" fill="#121715" font-family="monospace" font-weight="700" font-size="20">CODE / MUSIC / CULTURE / CHAOS</text>
+<text x="32" y="378" fill="#8fa79a" font-family="monospace" font-size="13" letter-spacing="2">SOUTH AFRICA • IDEAS IN PROGRESS • 2026</text>
+<rect x="592" y="30" width="240" height="55" rx="4" fill="#d6bbff" transform="rotate(5 592 30)"/>
+<g class="jiggle"><text x="604" y="70" fill="#172019" font-family="Arial,sans-serif" font-size="22" font-weight="900">TOO MANY TABS ↗</text></g>
+<path d="M604 138q47-42 106 0q50 38 99-5" fill="none" stroke="#f6f2e9" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 14"/>
+<text x="621" y="179" fill="#a5f26b" font-family="monospace" font-size="17">[ still making stuff ]</text>
+<rect x="618" y="195" width="226" height="58" rx="4" fill="#f4f0e5" transform="rotate(-5 618 195)"/>
+<text x="638" y="225" fill="#18241c" font-family="Arial,sans-serif" font-weight="900" font-size="25" transform="rotate(-5 638 225)">MUSIC IS CODE</text>
+<text x="647" y="249" fill="#18241c" font-family="monospace" font-size="13" transform="rotate(-5 647 249)">IN A DIFFERENT LANGUAGE</text>
+<g class="star"><path d="M765 291l8 22 23 7-23 8-8 22-9-22-22-8 22-7z" fill="#ff84a5"/></g>
+<g class="vinyl">
+<circle cx="1008" cy="199" r="178" fill="#232b27" stroke="#edeee4" stroke-width="3"/>
+<circle cx="1008" cy="199" r="169" fill="#101513" stroke="#3f5850" stroke-width="3"/>
+<g fill="none" stroke="#567065" stroke-width="1"><circle cx="1008" cy="199" r="150"/><circle cx="1008" cy="199" r="137"/><circle cx="1008" cy="199" r="126"/><circle cx="1008" cy="199" r="115"/><circle cx="1008" cy="199" r="104"/><circle cx="1008" cy="199" r="91"/></g>
+<circle cx="1008" cy="199" r="76" fill="#baff66"/>
+<path d="M1008 123A76 76 0 0 1 1084 199H1008Z" fill="#f3a68e"/>
+<path d="M1008 275A76 76 0 0 1 932 199H1008Z" fill="#d6bbff"/>
+<circle cx="1008" cy="199" r="36" fill="#1b251e"/><circle cx="1008" cy="199" r="8" fill="#f6f2e9"/>
+<text x="1008" y="182" text-anchor="middle" fill="#eaf2e7" font-family="monospace" font-size="10">MANDLA</text>
+<text x="1008" y="223" text-anchor="middle" fill="#eaf2e7" font-family="monospace" font-size="10">SIDE A</text></g>
 </svg>
