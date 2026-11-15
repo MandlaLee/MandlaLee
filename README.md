@@ -1,77 +1,114 @@
 <p align="center">
-  <img src="./assets/mandla-lee-header.svg" alt="Mandla Lee — build things that last" width="100%" />
+  <img src="./assets/mandla-lee-header.svg" alt="Mandla Lee — a South African maker working across code, culture, creativity and business" width="100%" />
 </p>
 
-# Hey, I'm Mandla Lee.
+<div align="center">
 
-**Independent maker · Web developer · Creative technologist · South Africa**
+# I don't fit in one box.
 
-I build websites, useful software and experimental tools. Some projects begin with a client who needs to be seen online; others begin with me asking, *“Why isn't there a better way to do this?”*
+**Mandla Lee Ndlovu** · builder, creative, independent thinker  
+**South Africa** · making things for the internet and for life outside it
 
-I work where **design, code, music and everyday problems** meet. I'm interested in shipping something people can actually use—not just making an impressive first screenshot.
+*I make music. I build software. I start businesses. I turn random ideas into real experiments. Sometimes all in the same week.*
 
-**My web-development work:** [Phala Digital](https://github.com/MandlaLee/LeeR500) · **My portfolio:** [Explore selected work](https://mandlalee.github.io/LeeR500/) · **Contact:** [Email me](mailto:mandlaleendlovu@outlook.com)
+[**Explore my work**](https://mandlalee.github.io/LeeR500/) · [**Phala Digital**](https://github.com/MandlaLee/LeeR500) · [**All repositories**](https://github.com/MandlaLee?tab=repositories) · [**Get in touch**](mailto:mandlaleendlovu@outlook.com)
+
+</div>
 
 ---
 
-## 01 / Selected work
+## THE PERSON BEHIND THE PROJECTS
 
-Not every experiment needs to become a product. These are a few public projects that show the problems I like working on.
+A typical introduction would call me a web developer. That's true, but it's not the whole story.
 
-| Project | What I'm building |
+I'm interested in how **technology, creativity, business and culture** can come together to solve problems and tell stories. I'll spend a day working on a client website, then go down a rabbit hole figuring out how to automate something, design a better interface, build an app for my own computer or develop an idea for a game.
+
+I don't believe curiosity needs to stay inside one job title.
+
+**The builder.** I like taking something from “what if?” to a thing you can actually open, try and improve.
+
+**The artist.** Under the name **Mandla Lee**, I make music and write stories. Music and South African creative culture are as much a part of my identity as computers.
+
+**The entrepreneur.** I'm building **Phala Digital** around useful digital work for real businesses, while exploring creative software products of my own.
+
+**The experimenter.** I use AI, open source and whatever I can learn to push ideas further. Not everything works on the first attempt. I'd rather find out by building.
+
+> **My rule:** Don't confuse a working demo with a finished product. Build, test, improve—and keep the parts that actually work.
+
+---
+
+## SELECTED PROJECTS / THINGS YOU CAN EXPLORE
+
+These are real public repositories. Some are tools, some are working foundations, and some are experiments. I try to be clear about the difference.
+
+### 01 — Tools that make digital work easier
+
+| Project | What it is |
 | :-- | :-- |
-| **[Phala Digital](https://github.com/MandlaLee/LeeR500)** | Web design and development for businesses, creators and brands that need a clearer presence online. |
-| **[WebPfyer](https://github.com/MandlaLee/WebPfyer)** | A browser-based image optimiser that converts and prepares assets for real websites, without uploading source images. |
-| **[SiteFyer](https://github.com/MandlaLee/SiteFyer)** | A resumable website mirroring tool for publicly accessible web content, with offline ZIP exports. |
-| **[Mandla Brain](https://github.com/MandlaLee/mandla-brain)** | A structured handover and continuity system so AI-assisted work can move between tools without losing decisions and context. |
-| **[123Kasi](https://github.com/MandlaLee/123Kasi)** | A media discovery prototype that turns organised folders of photographs and videos into a browsable feed. |
-| **[Kingship Christian Centre](https://github.com/MandlaLee/thethrivegeneration)** | Web and content infrastructure for a community organisation, including media and information pages. |
+| **[WebPfyer](https://github.com/MandlaLee/WebPfyer)** | An image-conversion and web-asset optimisation tool that runs in the browser. |
+| **[SiteFyer](https://github.com/MandlaLee/SiteFyer)** | A website-mirroring experiment with public-page discovery, checkpoints and ZIP export. |
+| **[ClipFyre](https://github.com/MandlaLee/clipfyre)** | An experimental pipeline for finding short clips in longer videos. |
+| **[Mandla Brain](https://github.com/MandlaLee/mandla-brain)** | My system for keeping decisions, design standards and project context consistent across AI tools. |
 
-### A small but meaningful open-source contribution
+### 02 — Businesses, people and communities
 
-**[Cutawan — Intel Mac support](https://github.com/MandlaLee/cutawan)**
+| Project | What it is |
+| :-- | :-- |
+| **[Phala Digital](https://github.com/MandlaLee/LeeR500)** | My web-development identity and a portfolio of digital work for businesses and brands. |
+| **[Kingship Christian Centre](https://github.com/MandlaLee/thethrivegeneration)** | Website and digital content work for a faith community. |
+| **[123Kasi](https://github.com/MandlaLee/123Kasi)** | A South African media-feed prototype built around organising and discovering photos and videos. |
 
-I forked [JeremySNR's Cutawan](https://github.com/JeremySNR/cutawan), an open-source AI video clipper, and added an Intel x64 packaging workflow. It builds, runs packaged-app tests and has been launched successfully on a MacBook Air running macOS Monterey. The broader AI clipping workflow on that machine is still being tested.
+### 03 — Games, creative ideas and open source
 
-[Explore the Intel build changes](https://github.com/MandlaLee/cutawan/blob/main/docs/intel-monterey.md)
+| Project | What it is |
+| :-- | :-- |
+| **[Township Shop Tycoon](https://github.com/MandlaLee/Township-Shop-Tycoon)** | A South African-inspired shop-management game experiment. |
+| **[Cutawan — Intel macOS support](https://github.com/MandlaLee/cutawan)** | My fork of [JeremySNR's open-source AI video clipper](https://github.com/JeremySNR/cutawan), with an x64 packaging workflow tested on Intel Mac hardware. |
 
----
-
-## 02 / On the workbench
-
-I don't work in one category—and I don't pretend every prototype is production-ready.
-
-- **Creative software:** media, image and video tools that take repetitive work off someone's plate.
-- **AI-assisted workflows:** ways to make computers useful without pretending every problem needs a huge model.
-- **Native apps and automation:** desktop experiments with practical, focused interfaces.
-- **Playful projects:** game ideas inspired by businesses, places and everyday South African life.
-
-The through-line is simple: **make something useful, understand what breaks, then make it better.**
+**A note on Cutawan:** the Intel application has been built and launched on macOS Monterey. Full AI clipping and long-video performance testing on that machine is separate work; the original Cutawan project belongs to its upstream contributors.
 
 ---
 
-## 03 / The tools
+## WHAT I'M EXPLORING NEXT
 
-**Languages & platforms:** JavaScript · TypeScript · Python · Swift · HTML · CSS
+My ideas aren't limited to the public repositories above. I'm also exploring:
 
-**Things I work with:** React · Electron · FFmpeg · GitHub Actions · Git · AI-assisted development
+- **Desktop software and AI assistants** — practical tools for automation, media workflows and personal productivity.
+- **Digital products** — turning useful one-off tools into software that others can use.
+- **Games with a South African point of view** — everyday settings, local businesses and stories as spaces worth playing in.
+- **Music and creator culture** — writing, releasing music and creating more room for local artists to be seen and heard.
+- **Better design systems** — interfaces that feel intentional, not like another generic AI-generated dashboard.
 
-I care about interface quality, thoughtful branding, portability, and keeping working code working. I'm also a fan of **starting from a good open-source foundation instead of reinventing everything badly**.
-
----
-
-## 04 / More than code
-
-**Mandla Lee** is also my creative identity in music. I think about rhythm, stories, visual identity and how people discover things—not just how a project compiles.
-
-I'm South African, and I want my work to feel connected to real people and real places, while being useful far beyond where it started.
+Some of these are experiments or private work in progress. I don't label unfinished work as launched products.
 
 ---
 
-## 05 / Build something together
+## MY TOOLBOX
 
-If you need a business website, have an interesting tool in mind, or want to collaborate on a practical open-source project:
+`JavaScript` · `TypeScript` · `Python` · `Swift` · `HTML` · `CSS`
 
-**[See my work](https://mandlalee.github.io/LeeR500/)** · **[Browse repositories](https://github.com/MandlaLee?tab=repositories)** · **[Get in touch](mailto:mandlaleendlovu@outlook.com)**
+`React` · `Electron` · `GitHub Actions` · `FFmpeg` · `Git` · `AI-assisted development`
 
-<sub>Build it. Test it. Improve it. Repeat.</sub>
+My favourite tool is usually whichever helps me **understand the problem, reuse good work, and ship something reliable**. I don't care about writing every line from scratch for the sake of it.
+
+---
+
+## OUTSIDE THE CODE
+
+I'm a South African creative with roots in Limpopo. My interests stretch from music production and songwriting to branding, storytelling, business ideas and the communities behind them.
+
+That range isn't a distraction from my work. **It's where a lot of my ideas come from.**
+
+---
+
+<div align="center">
+
+### Have an idea worth building?
+
+I collaborate on websites, useful tools, creative projects and interesting open-source work.
+
+[**View my work**](https://mandlalee.github.io/LeeR500/) · [**Email me**](mailto:mandlaleendlovu@outlook.com)
+
+<sub>Code is one of the ways I make things. It isn't the only one.</sub>
+
+</div>
